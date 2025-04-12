@@ -21,7 +21,7 @@ This project focuses on detecting spam messages using **DistilBERT** for feature
 ### 📄 Overview:
 
 - **File Name:** `emails.csv`
-- **Total Records:** 100,000 emails
+- **Total Records:** 83,446 emails
 - **Columns:**
   - `text`: The full content of the email.
   - `spam`: Binary label for classification:
